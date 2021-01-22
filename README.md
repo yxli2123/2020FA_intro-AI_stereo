@@ -1,5 +1,5 @@
 # Stereo
-## Functions 
+## Function
 Given 2 iamges that are from left and right view respectively, compute the depth from the original images.
 
 ## Dataset
