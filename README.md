@@ -16,6 +16,7 @@ The best candidate pixel are determined by the maximum correlation of 2 slide wi
 depth = f\*T/disparity, where f and T are constants here, and disparity is the x value of 2 pixels in the last step.
 
 ## Dependency
-opencv-python
+```shell
+pip install opencv-python numpy
+```
 
-numpy
